@@ -1,0 +1,14 @@
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağSinemaBiletiSatış2\MuratYücedağSinemaBiletiSatış2\bin\Debug\MuratYücedağSinemaBiletiSatış2.exe.config
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağSinemaBiletiSatış2\MuratYücedağSinemaBiletiSatış2\bin\Debug\MuratYücedağSinemaBiletiSatış2.exe
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağSinemaBiletiSatış2\MuratYücedağSinemaBiletiSatış2\bin\Debug\MuratYücedağSinemaBiletiSatış2.pdb
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağSinemaBiletiSatış2\MuratYücedağSinemaBiletiSatış2\obj\Debug\MuratYücedağSinemaBiletiSatış2.csprojResolveAssemblyReference.cache
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağSinemaBiletiSatış2\MuratYücedağSinemaBiletiSatış2\obj\Debug\MuratYücedağSinemaBiletiSatış2.Form1.resources
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağSinemaBiletiSatış2\MuratYücedağSinemaBiletiSatış2\obj\Debug\MuratYücedağSinemaBiletiSatış2.Properties.Resources.resources
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağSinemaBiletiSatış2\MuratYücedağSinemaBiletiSatış2\obj\Debug\MuratYücedağSinemaBiletiSatış2.csproj.GenerateResource.Cache
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağSinemaBiletiSatış2\MuratYücedağSinemaBiletiSatış2\obj\Debug\MuratYücedağSinemaBiletiSatış2.exe
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağSinemaBiletiSatış2\MuratYücedağSinemaBiletiSatış2\obj\Debug\MuratYücedağSinemaBiletiSatış2.pdb
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağSinemaBiletiSatış2\MuratYücedağSinemaBiletiSatış2\bin\Debug\Interop.WMPLib.dll
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağSinemaBiletiSatış2\MuratYücedağSinemaBiletiSatış2\bin\Debug\AxInterop.WMPLib.dll
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağSinemaBiletiSatış2\MuratYücedağSinemaBiletiSatış2\obj\Debug\Interop.WMPLib.dll
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağSinemaBiletiSatış2\MuratYücedağSinemaBiletiSatış2\obj\Debug\AxInterop.WMPLib.dll
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağSinemaBiletiSatış2\MuratYücedağSinemaBiletiSatış2\obj\Debug\MuratYücedağSinemaBiletiSatış2.csproj.ResolveComReference.cache
